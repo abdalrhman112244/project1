@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    background-color: aqua;
+    width: max-content;
+    height: max-content;
+}
